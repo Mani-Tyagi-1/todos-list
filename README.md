@@ -1,12 +1,12 @@
 Hello coders !!
 This is the Todos list created by me. I have created a todo list earlier also but it was made by using HTML, CSS and Js only and this Todos list is created by using react-js.
-Although it was a very simple application I didin't focus much on styling this application as its main purpose is to learn react-js
+Although it was a very simple application I didin't focus much on styling this application as my  main purpose is to learn react-js while creating this.
 
 **Functions of the Application: **
 1. My Todos List logo and home will take you to the home page where you can use the actual functionality of the application
 2. About link will take you to another page where you can read about the app
 3. You can add title and description of your task
-4. Your task will remain same after refreshing the page
+4. Your task list will remain same after refreshing the page 
 5. You can delete those task which you have completed
 6. You can't add a empty task
 
